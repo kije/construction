@@ -3,10 +3,12 @@ name = "construction"
 version = "0.0.0"
 authors = ["Kim Jeker <git@kije.ch>"]
 description = "Con-struct-ion - Marcos for generating struct definitions"
-keywords = ["proc_macro", "procmacro"]
+keywords = ["proc_macro", "procmacro", "wip"]
 edition = "2021"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/kije/construction"
+readme = "README.md"
+homepage = "https://github.com/kije/construction"
 
 [lib]
 proc-macro = true
